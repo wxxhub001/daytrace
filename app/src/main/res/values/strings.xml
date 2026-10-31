@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">刷够了没</string>
+    <string name="accessibility_label">刷够了没 · 到点退出应用</string>
+    <string name="accessibility_description">到点提醒时把你正在使用的应用切回桌面。本服务不读取屏幕内容，也不收集、上传任何数据。</string>
+    <string name="widget_today_desc">今天一共刷了多久、都刷了哪些</string>
+    <string name="widget_countdown_desc">离那个重要日子还有几天</string>
+</resources>
