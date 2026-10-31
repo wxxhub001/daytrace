@@ -1,0 +1,22 @@
+*.iml
+.gradle
+/.idea
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# 构建产物（包括 app/build、模块下的 build）
+build/
+
+# 签名材料，绝对不要提交
+keystore.properties
+keystore/
+*.jks
+*.keystore
+
+# APK 不进仓库：走 GitHub Releases 发布，
+# 仓库里只留源码（否则历史里塞进上百 MB 的二进制，clone 会很痛苦）
+*.apk
+*.aab
